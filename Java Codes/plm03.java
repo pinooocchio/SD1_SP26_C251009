@@ -1,5 +1,5 @@
 import java.util.*;
-class plm3 {
+class plm03 {
     public static void main(String[] arg)
     {
         System.out.print("Enter Your Number:"); 

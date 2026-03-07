@@ -1,5 +1,5 @@
 import java.util.*;
-class plm1 {
+class plm01 {
     public static void main(String[] arg)
 
     {

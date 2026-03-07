@@ -1,6 +1,6 @@
 import java.util.*;
 
-class plm7 {
+class plm07 {
     public static void main(String[] arg) {
 
         Scanner input = new Scanner(System.in);

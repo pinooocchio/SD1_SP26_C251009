@@ -1,5 +1,5 @@
 import java.util.*;
-class plm2 {
+class plm02 {
     public static void main(String[] arg)
     {
         System.out.print("Enter Your Name:"); 
